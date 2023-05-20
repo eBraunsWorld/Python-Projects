@@ -1,0 +1,557 @@
+  *
+
+
+        aptaissuebrief-group-vs-individual-care-decision-tree.pdf
+
+    Item Type 	Attachment
+    URL
+    https://www.apta.org/contentassets/b069a8d5269b456a980c4006312fbaf0/aptaissuebrief-group-vs-individual-care-decision-tree.pdf
+
+    Accessed 	5/1/2023, 1:29:34 PM
+    Date Added 	5/1/2023, 1:29:34 PM
+    Modified 	5/1/2023, 1:29:34 PM
+
+  *
+
+
+        Elevated Kinesiophobia Is Associated With Reduced Recovery From
+        Lower Extremity Musculoskeletal Injuries in Military and
+        Civilian Cohorts
+
+    Item Type 	Journal Article
+    Author 	Ruth L. Chimenti
+    Author 	Molly S. Pacha
+    Author 	Natalie A. Glass
+    Author 	Mathew Frazier
+    Author 	Amy O. Bowles
+    Author 	Andrew D. Valantine
+    Author 	Kristin R. Archer
+    Author 	Jason M. Wilken
+    Abstract 	OBJECTIVE: The purpose of this study was to examine
+    associations between level of kinesiophobia and improvement in
+    physical function during recovery from lower extremity injury.
+    METHODS: A total 430 adults (mean [SD]: age = 27.3 [6.4] years; sex 
+    = 70.5% men; body mass index = 27.6 [5.2] kg/m2) were included in
+    the analyses. Using the Patient-Reported Outcomes Measurement
+    Information System, physical function was evaluated in parallel with
+    treatment from a physical therapist at the initial visit and every
+    3 weeks until final visit or up to 6 months. A Tampa Scale of
+    Kinesiophobia (TSK-17) score of >41 indicated elevated TSK. Four TSK
+    groups were identified: (1) TSK score improved from >41 at initial
+    visit to <41 by final visit (TSK_I), (2) TSK score was <41 at
+    initial and final visits (TSK-), (3) TSK score was >41 at initial
+    and final visits (TSK+), and (4) TSK score worsened from <41 at
+    initial visit to ≥41 by final visit (TSK_W). Linear mixed effects
+    models were used to examine differences between groups in improved
+    physical function over time, with adjustment for depression and
+    self-efficacy. RESULTS: Groups with elevated kinesiophobia at the
+    final visit had smaller positive improvements in physical function
+    (mean change [95% CI]: TSK+ = 7.1 [4.8-9.4]; TSK_W: 6.0 [2.6-9.4])
+    compared with groups without elevated kinesiophobia at the final
+    visit (TSK_I = 9.8 [6.4-13.3]; TSK- = 9.7 [8.1-11.3]) by 12 weeks.
+    CONCLUSIONS: Elevated kinesiophobia that persists or develops over
+    the course of care is associated with less improvement in physical
+    function within military and civilian cohorts. IMPACT: The findings
+    of this prospective longitudinal study support the need to assess
+    for elevated kinesiophobia throughout the course of care because of
+    its association with decreased improvement in physical function. LAY
+    SUMMARY: To help improve your physical function, your physical
+    therapist can monitor the interaction between fear of movement and
+    your clinical outcomes over the course of treatment.
+    Date 	2022-02-01
+    Language 	eng
+    Library Catalog 	PubMed
+    Extra 	PMID: 34935980 PMCID: PMC9432473
+    Volume 	102
+    Pages 	pzab262
+    Publication 	Physical Therapy
+    DOI 	10.1093/ptj/pzab262 <http://doi.org/10.1093/ptj/pzab262>
+    Issue 	2
+    Journal Abbr 	Phys Ther
+    ISSN 	1538-6724
+    Date Added 	5/1/2023, 1:49:40 PM
+    Modified 	5/1/2023, 1:49:40 PM
+
+
+          Tags:
+
+      o Adult
+      o Humans
+      o Military Personnel
+      o Prospective Studies
+      o Ankle Injuries
+      o Behavior Rating Scale
+      o Disability
+      o Fear
+      o Female
+      o Knee Injuries
+      o Leg Injuries
+      o Linear Models
+      o Longitudinal Studies
+      o Lower Extremity
+      o Male
+      o Pain
+      o Patient Reported Outcome Measures
+      o Phobic Disorders
+      o Physical Therapy Modalities
+      o Recovery of Function
+      o Rehabilitation
+
+
+          Attachments
+
+      o Full Text
+      o PubMed entry
+  *
+
+
+        Group-based exercice training programs for military members
+        presenting musculoskeletal disorders – protocol for a pragmatic
+        randomized controlled trial
+
+    Item Type 	Journal Article
+    Author 	F. Dupuis
+    Author 	K. Perreault
+    Author 	L. J. Hébert
+    Author 	M. Perron
+    Author 	Maj A. Fredette
+    Author 	F. Desmeules
+    Author 	J. S. Roy
+    Abstract 	Musculoskeletal disorders are a leading cause of morbidity
+    and the most prevalent source of disability among soldiers. Their
+    high prevalence in armed forces and limited ressources have led to
+    problems related to access to physical rehabilitation care. To
+    increase access, supervised group-based exercise programs for the
+    most prevalent musculoskeletal disorders (low back pain,
+    patellofemoral pain, rotator cuff-related shoulder pain or lateral
+    ankle sprain) have been developed at a Canadian Armed forces (CAF)
+    base, but their effectiveness has not been evaluated. The primary
+    objective of this randomized controlled trial is to evaluate the
+    mid- and long-term effects of these group-based training programs on
+    pain severity and functional limitations, in comparison with usual
+    individual physiotherapy care. Secondary objectives include
+    comparing both interventions in terms of health-related quality of
+    life, pain-related fear, and patients’ satisfaction.
+    Date 	2022-04-18
+    Library Catalog 	BioMed Central
+    URL 	https://doi.org/10.1186/s12891-022-05317-6
+    Accessed 	5/1/2023, 1:43:11 PM
+    Volume 	23
+    Pages 	366
+    Publication 	BMC Musculoskeletal Disorders
+    DOI 	10.1186/s12891-022-05317-6
+    <http://doi.org/10.1186/s12891-022-05317-6>
+    Issue 	1
+    Journal Abbr 	BMC Musculoskeletal Disorders
+    ISSN 	1471-2474
+    Date Added 	5/1/2023, 1:43:11 PM
+    Modified 	5/1/2023, 1:43:11 PM
+
+
+          Tags:
+
+      o Randomized controlled trial
+      o Ankle sprains
+      o Group-based intervention
+      o Individual intervention
+      o Low back pain
+      o Musculoskeletal disorders
+      o Patelofemoral pain syndrome
+      o Physiotherapy
+      o Rotator cuff related pain
+
+
+          Attachments
+
+      o Full Text PDF
+      o Snapshot
+  *
+
+
+        Identification of Risk Factors Prospectively Associated With
+        Musculoskeletal Injury in a Warrior Athlete Population
+
+    Item Type 	Journal Article
+    Author 	Deydre S. Teyhen
+    Author 	Scott W. Shaffer
+    Author 	Stephen L. Goffar
+    Author 	Kyle Kiesel
+    Author 	Robert J. Butler
+    Author 	Daniel I. Rhon
+    Author 	Phillip J. Plisky
+    Abstract 	BACKGROUND: Musculoskeletal injuries are a primary source
+    of disability. Understanding how risk factors predict injury is
+    necessary to individualize and enhance injury reduction programs.
+    HYPOTHESIS: Because of the multifactorial nature of musculoskeletal
+    injuries, multiple risk factors will provide a useful method of
+    categorizing warrior athletes based on injury risk. STUDY DESIGN:
+    Prospective observational cohort study. LEVEL OF EVIDENCE: Level 2.
+    METHODS: Baseline data were collected on 922 US Army
+    soldiers/warrior athletes (mean age, 24.7 ± 5.2 years; mean body
+    mass index, 26.8 ± 3.4 kg/m2) using surveys and physical measures.
+    Injury occurrence and health care utilization were collected for 1
+    year. Variables were compared in healthy versus injured participants
+    using independent t tests or chi-square analysis. Significantly
+    different factors between each group were entered into a logistic
+    regression equation. Receiver operating characteristic curve and
+    accuracy statistics were calculated for regression variables.
+    RESULTS: Of the 922 warrior athletes, 38.8% suffered a time-loss
+    injury (TLI). Overall, 35 variables had a significant relationship
+    with TLIs. The logistic regression equation, consisting of 11
+    variables of interest, was significant (adjusted R2 = 0.21; odds
+    ratio, 5.7 [95% CI, 4.1-7.9]; relative risk, 2.5 [95% CI, 2.1-2.9];
+    area under the curve, 0.73). Individuals with 2 variables had a
+    sensitivity of 0.89, those with 7 or more variables had a
+    specificity of 0.94. CONCLUSION: The sum of individual risk factors
+    (prior injury, prior work restrictions, lower perceived recovery
+    from injury, asymmetrical ankle dorsiflexion, decreased or
+    asymmetrical performance on the Lower and Upper Quarter Y-Balance
+    test, pain with movement, slower 2-mile run times, age, and sex)
+    produced a highly sensitive and specific multivariate model for TLI
+    in military servicemembers. CLINICAL RELEVANCE: A better
+    understanding of characteristics associated with future injury risk
+    can provide a foundation for prevention programs designed to reduce
+    medical costs and time lost.
+    Date 	2020
+    Language 	eng
+    Library Catalog 	PubMed
+    Extra 	PMID: 32134698 PMCID: PMC7785899
+    Volume 	12
+    Pages 	564-572
+    Publication 	Sports Health
+    DOI 	10.1177/1941738120902991 <http://doi.org/10.1177/1941738120902991>
+    Issue 	6
+    Journal Abbr 	Sports Health
+    ISSN 	1941-0921
+    Date Added 	5/1/2023, 1:49:09 PM
+    Modified 	5/1/2023, 1:49:09 PM
+
+
+          Tags:
+
+      o Adult
+      o Age Factors
+      o Athletic Injuries
+      o Cumulative Trauma Disorders
+      o Exercise Test
+      o Humans
+      o injury prediction
+      o intrinsic risk factors
+      o Military Personnel
+      o movement tests
+      o musculoskeletal injury
+      o Musculoskeletal System
+      o Physical Conditioning, Human
+      o Physical Fitness
+      o Prospective Studies
+      o Recurrence
+      o Return to Work
+      o Risk Factors
+      o Sex Factors
+      o Time Factors
+      o Young Adult
+
+
+          Attachments
+
+      o Full Text
+      o PubMed entry
+  *
+
+
+        Is group physical therapy superior to individualized therapy in
+        ankylosing spondylitis? A randomized controlled trial
+
+    Item Type 	Journal Article
+    Author 	Alita Hidding
+    Author 	Sjef van der Linden
+    Author 	Maarten Boers
+    Author 	Xandra Gielen
+    Author 	Luc de Witte
+    Author 	Arnold Kester
+    Author 	Ben Dijkmans
+    Author 	Daniël Moolenburgh
+    Abstract 	Purpose. To study the effects of adding supervised group
+    physical therapy to unsupervised individualized therapy in
+    ankylosing spondylitis. Methods. One hundred forty-four patients
+    were randomized to exercises at home, or the same plus weekly group
+    physical therapy for 9 months. Endpoints were spinal mobility,
+    fitness[maximum work capacity by ergometry], functioning (Sickness
+    Impact Profile, Health Assessment Questionnaire for the
+    Spondylar-thropathies, and Functional Index), and patient's global
+    assessment of change on a 10-cm visual analogue scale. Results.
+    Thoracolumbar flexion and extension increased by an average of 0.5
+    cm (9%) after home exercises, and by 0.9 cm (16%) after group
+    therapy. Maximum load in ergometry decreased by 2 W (1%) after home
+    exercises, but increased by 7 W (4%) after group therapy. Global
+    assessment improved by 0.3 (6%)after home exercises, and by 1.7
+    (34%) after group therapy. These three differenceswere statistically
+    significant. There were no significant differences in chest
+    expansion, cervical rotation, or the self-assessments of
+    functioning. Conclusions. Group physical therapy proved superior to
+    individualized therapy in improving thoracolumbar mobility and
+    fitness, and had an important effect on global health reported by
+    the patients.
+    Date 	1993
+    Language 	en
+    Short Title 	Is group physical therapy superior to individualized
+    therapy in ankylosing spondylitis?
+    Library Catalog 	Wiley Online Library
+    URL 	https://onlinelibrary.wiley.com/doi/abs/10.1002/art.1790060303
+    Accessed 	5/1/2023, 1:29:49 PM
+    Rights 	Copyright © 1993 WILEY-VCH Verlag GmbH & Co. KGaA
+    Extra 	_eprint:
+    https://onlinelibrary.wiley.com/doi/pdf/10.1002/art.1790060303
+    Volume 	6
+    Pages 	117-125
+    Publication 	Arthritis & Rheumatism
+    DOI 	10.1002/art.1790060303 <http://doi.org/10.1002/art.1790060303>
+    Issue 	3
+    ISSN 	1529-0131
+    Date Added 	5/1/2023, 1:29:49 PM
+    Modified 	5/1/2023, 1:29:49 PM
+
+
+          Tags:
+
+      o Ankylosing spondylitis
+      o Physical therapy
+      o Randomized controlled trial
+  *
+
+
+        Neuromuscular training with injury prevention counselling to
+        decrease the risk of acute musculoskeletal injury in young men
+        during military service: a population-based, randomised study
+
+    Item Type 	Journal Article
+    Author 	Jari Parkkari
+    Author 	Henri Taanila
+    Author 	Jaana Suni
+    Author 	Ville M Mattila
+    Author 	Olli Ohrankämmen
+    Author 	Petteri Vuorinen
+    Author 	Pekka Kannus
+    Author 	Harri Pihlajamäki
+    Abstract 	Background The rapidly increasing number of
+    activity-induced musculoskeletal injuries among adolescents and
+    young adults is currently a true public health burden. The objective
+    of this study was to investigate whether a neuromuscular training
+    programme with injury prevention counselling is effective in
+    preventing acute musculoskeletal injuries in young men during
+    military service. Methods The trial design was a population-based,
+    randomised study. Two successive cohorts of male conscripts in four
+    companies of one brigade in the Finnish Defence Forces were first
+    followed prospectively for one 6-month term to determine the
+    baseline incidence of injury. After this period, two new successive
+    cohorts in the same four companies were randomised into two groups
+    and followed prospectively for 6 months. Military service is
+    compulsory for about 90% of 19-year-old Finnish men annually, who
+    comprised the cohort in this study. This randomised, controlled
+    trial included 968 conscripts comprising 501 conscripts in the
+    intervention group and 467 conscripts in the control group. A
+    neuromuscular training programme was used to enhance conscripts'
+    motor skills and body control, and an educational injury prevention
+    programme was used to increase knowledge and awareness of acute
+    musculoskeletal injuries. The main outcome measures were acute
+    injuries of the lower and upper limbs. Results In the intervention
+    groups, the risk for acute ankle injury decreased significantly
+    compared to control groups (adjusted hazards ratio (HR) = 0.34, 95%
+    confidence interval (95% CI) = 0.15 to 0.78, P = 0.011). This risk
+    decline was observed in conscripts with low as well as moderate to
+    high baseline fitness levels. In the latter group of conscripts, the
+    risk of upper-extremity injuries also decreased significantly
+    (adjusted HR = 0.37, 95% CI 0.14 to 0.99, P = 0.047). In addition,
+    the intervention groups tended to have less time loss due to
+    injuries (adjusted HR = 0.55, 95% CI 0.29 to 1.04). Conclusions A
+    neuromuscular training and injury prevention counselling programme
+    was effective in preventing acute ankle and upper-extremity injuries
+    in young male army conscripts. A similar programme could be useful
+    for all young individuals by initiating a regular exercise routine.
+    Trial registration ClinicalTrials.gov identifier number NCT00595816.
+    Date 	2011-4-11
+    Short Title 	Neuromuscular training with injury prevention
+    counselling to decrease the risk of acute musculoskeletal injury in
+    young men during military service
+    Library Catalog 	PubMed Central
+    URL 	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3084158/
+    Accessed 	5/1/2023, 1:53:28 PM
+    Extra 	PMID: 21481230 PMCID: PMC3084158
+    Volume 	9
+    Pages 	35
+    Publication 	BMC Medicine
+    DOI 	10.1186/1741-7015-9-35 <http://doi.org/10.1186/1741-7015-9-35>
+    Journal Abbr 	BMC Med
+    ISSN 	1741-7015
+    Date Added 	5/1/2023, 1:53:28 PM
+    Modified 	5/1/2023, 1:53:28 PM
+
+
+          Attachments
+
+      o PubMed Central Full Text PDF
+      o PubMed Central Link
+  *
+
+
+        Return to sport decisions after an acute lateral ankle sprain
+        injury: introducing the PAASS framework—an international
+        multidisciplinary consensus
+
+    Item Type 	Journal Article
+    Author 	Michelle D. Smith
+    Author 	Bill Vicenzino
+    Author 	Roald Bahr
+    Author 	Thomas Bandholm
+    Author 	Rosalyn Cooke
+    Author 	Luciana De Michelis Mendonça
+    Author 	François Fourchet
+    Author 	Philip Glasgow
+    Author 	Phillip A. Gribble
+    Author 	Lee Herrington
+    Author 	Claire E. Hiller
+    Author 	Sae Yong Lee
+    Author 	Andrea Macaluso
+    Author 	Romain Meeusen
+    Author 	Oluwatoyosi B. A. Owoeye
+    Author 	Duncan Reid
+    Author 	Bruno Tassignon
+    Author 	Masafumi Terada
+    Author 	Kristian Thorborg
+    Author 	Evert Verhagen
+    Author 	Jo Verschueren
+    Author 	Dan Wang
+    Author 	Rod Whiteley
+    Author 	Erik A. Wikstrom
+    Author 	Eamonn Delahunt
+    Abstract 	Background Despite being the most commonly incurred sports
+    injury with a high recurrence rate, there are no guidelines to
+    inform return to sport (RTS) decisions following acute lateral ankle
+    sprain injuries. We aimed to develop a list of assessment items to
+    address this gap. Methods We used a three-round Delphi survey
+    approach to develop consensus of opinion among 155 globally diverse
+    health professionals working in elite field or court sports. This
+    involved surveys that were structured in question format with both
+    closed-response and open-response options. We asked panellists to
+    indicate their agreement about whether or not assessment items
+    should support the RTS decision after an acute lateral ankle sprain
+    injury. The second and third round surveys included quantitative and
+    qualitative feedback from the previous round. We defined a priori
+    consensus being reached at >70% agree or disagree responses. Results
+    Sixteen assessment items reached consensus to be included in the RTS
+    decision after an acute lateral ankle sprain injury. They were
+    mapped to five domains with 98% panellist agreement—PAASS: Pain
+    (during sport participation and over the last 24 hours), Ankle
+    impairments (range of motion; muscle strength, endurance and power),
+    Athlete perception (perceived ankle confidence/reassurance and
+    stability; psychological readiness), Sensorimotor control
+    (proprioception; dynamic postural control/balance), Sport/functional
+    performance (hopping, jumping and agility; sport-specific drills;
+    ability to complete a full training session). Conclusion Expert
+    opinion indicated that pain severity, ankle impairments,
+    sensorimotor control, athlete perception/readiness and
+    sport/functional performance should be assessed to inform the RTS
+    decision following an acute lateral ankle sprain injury. Trial
+    registration number ACTRN12619000522112.
+    Date 	2021/11/01
+    Language 	en
+    Short Title 	Return to sport decisions after an acute lateral ankle
+    sprain injury
+    Library Catalog 	bjsm.bmj.com
+    URL 	https://bjsm.bmj.com/content/55/22/1270
+    Accessed 	5/1/2023, 1:54:24 PM
+    Rights 	© Author(s) (or their employer(s)) 2021. No commercial
+    re-use. See rights and permissions. Published by BMJ.
+    Extra 	Publisher: BMJ Publishing Group Ltd and British Association
+    of Sport and Exercise Medicine Section: Original research PMID:
+    34158354
+    Volume 	55
+    Pages 	1270-1276
+    Publication 	British Journal of Sports Medicine
+    DOI 	10.1136/bjsports-2021-104087
+    <http://doi.org/10.1136/bjsports-2021-104087>
+    Issue 	22
+    Journal Abbr 	Br J Sports Med
+    ISSN 	0306-3674, 1473-0480
+    Date Added 	5/1/2023, 1:54:24 PM
+    Modified 	5/1/2023, 1:54:24 PM
+
+
+          Tags:
+
+      o ankle
+      o athletes
+      o consensus
+      o sport
+      o sprains and strains
+
+
+          Attachments
+
+      o Full Text PDF
+      o PubMed entry
+  *
+
+
+        Risk Factors for Injuries During Military Static-Line Airborne
+        Operations: A Systematic Review and Meta-Analysis
+
+    Item Type 	Journal Article
+    Author 	Joseph Knapik
+    Author 	Ryan Steelman
+    Abstract 	Objective: To identify and analyze articles in which the
+    authors examined risk factors for soldiers during military
+    static-line airborne operations. Data Sources: We searched for
+    articles in PubMed, the Defense Technical Information Center,
+    reference lists, and other sources using the key words airborne,
+    parachuting, parachutes, paratrooper, injuries, wounds, trauma, and
+    musculoskeletal. Study Selection: The search identified 17 684
+    potential studies. Studies were included if they were written in
+    English, involved military static-line parachute operations,
+    recorded injuries directly from events on the landing zone or from
+    safety or medical records, and provided data for quantitative
+    assessment of injury risk factors. A total of 23 studies met the
+    review criteria, and 15 were included in the meta-analysis. Data
+    Extraction: The summary statistic obtained for each risk factor was
+    the risk ratio, which was the ratio of the injury risk in 1 group to
+    that of another (baseline) group. Where data were sufficient,
+    meta-analyses were performed and heterogeneity and publication bias
+    were assessed. Data Synthesis: Risk factors for static-line
+    parachuting injuries included night jumps, jumps with extra
+    equipment, higher wind speeds, higher air temperatures, jumps from
+    fixed-wing aircraft rather than balloons or helicopters, jumps onto
+    certain types of terrain, being a female paratrooper, greater body
+    weight, not using the parachute ankle brace, smaller parachute
+    canopies, simultaneous exits from both sides of an aircraft, higher
+    heat index, winds from the rear of the aircraft on exit
+    entanglements, less experience with a particular parachute system,
+    being an enlisted soldier rather than an officer, and jumps
+    involving a greater number of paratroopers. Conclusions: We analyzed
+    and summarized factors that increased the injury risk for soldiers
+    during military static-line parachute operations. Understanding and
+    considering these factors in risk evaluations may reduce the
+    likelihood of injury during parachuting.
+    Date 	2016-11
+    Short Title 	Risk Factors for Injuries During Military Static-Line
+    Airborne Operations
+    Library Catalog 	PubMed Central
+    URL 	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5224738/
+    Accessed 	5/1/2023, 1:54:17 PM
+    Extra 	PMID: 28068166 PMCID: PMC5224738
+    Volume 	51
+    Pages 	962-980
+    Publication 	Journal of Athletic Training
+    DOI 	10.4085/1062-6050-51.9.10
+    <http://doi.org/10.4085/1062-6050-51.9.10>
+    Issue 	11
+    Journal Abbr 	J Athl Train
+    ISSN 	1062-6050
+    Date Added 	5/1/2023, 1:54:17 PM
+    Modified 	5/1/2023, 1:54:17 PM
+
+
+          Attachments
+
+      o PubMed Central Full Text PDF
+      o PubMed Central Link
+
